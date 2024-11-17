@@ -2859,7 +2859,7 @@ input, select, textarea {
 
 		}
 
-		.features .logo logo {
+		.features .logo img {
 			width: 150px; /* Set a consistent width */
 			height: auto; /* Maintain the aspect ratio */
 			display: block; /* Ensure proper alignment */
