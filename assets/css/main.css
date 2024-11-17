@@ -2859,6 +2859,14 @@ input, select, textarea {
 
 		}
 
+		.features .logo logo {
+			width: 150px; /* Set a consistent width */
+			height: auto; /* Maintain the aspect ratio */
+			display: block; /* Ensure proper alignment */
+			margin: 0 auto; /* Center the images */
+		}
+		
+
 /* Statistics */
 
 	.statistics {
