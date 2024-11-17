@@ -2860,8 +2860,8 @@ input, select, textarea {
 		}
 
 		.features .logo img {
-			width: 150px; /* Set a consistent width */
-			height: auto; /* Maintain the aspect ratio */
+			width: 150px !important; /* Set a consistent width */
+			height: 150px !important; /* Maintain the aspect ratio */
 			display: block; /* Ensure proper alignment */
 			margin: 0 auto; /* Center the images */
 		}
